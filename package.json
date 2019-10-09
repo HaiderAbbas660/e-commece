@@ -17,5 +17,10 @@
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
         "popper.js": "^1.12"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^12.4.0",
+        "feather-icons": "^4.24.1",
+        "select2": "^4.0.10"
     }
 }

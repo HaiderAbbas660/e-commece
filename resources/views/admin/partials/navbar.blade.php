@@ -30,8 +30,8 @@
                 Categories
             </a>
             <div class="dropdown-menu" aria-labelledby="categoryDropdown">
-                <a class="dropdown-item" href="#">Add Category</a>
-                <a class="dropdown-item" href="#">All Categories</a>
+                <a class="dropdown-item" href="{{route('admin.category.create')}}">Add Category</a>
+                <a class="dropdown-item" href="{{route('admin.category.index')}}">All Categories</a>
                 <a class="dropdown-item" href="#">Trashed Categories</a>
             </div>
 
